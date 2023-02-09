@@ -1,13 +1,13 @@
-# Python-Chat-App
-Very simple chat app with python console using sockets
+# Python-Chat-ilovasi
+Soketlardan foydalangan holda python konsoli bilan juda oddiy suhbat ilovasi
 
-## Get Started
+## Boshlash
 
-First run the server
+Avval serverni ishga tushiring
 ```
 python3 server.py
 ```
-then client
+keyin esa mijoz bo'lib kirish
 ```
 python3 client.py
 ```
